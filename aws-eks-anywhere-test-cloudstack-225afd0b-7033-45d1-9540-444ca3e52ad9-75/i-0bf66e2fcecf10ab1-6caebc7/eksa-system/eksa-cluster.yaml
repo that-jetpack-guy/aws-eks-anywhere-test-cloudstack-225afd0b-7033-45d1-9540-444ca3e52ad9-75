@@ -45,7 +45,7 @@ spec:
   managementCluster:
     name: i-0bf66e2fcecf10ab1-6caebc7
   workerNodeGroupConfigurations:
-  - count: 3
+  - count: 1
     machineGroupRef:
       kind: CloudStackMachineConfig
       name: i-0bf66e2fcecf10ab1-6caebc7
